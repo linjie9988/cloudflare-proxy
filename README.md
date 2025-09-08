@@ -8,6 +8,8 @@ NAT64 公共节点资源有限，大家且用且珍惜
 
 ## 视频教程
 
+[高强度混淆指南，告别 Error 1101](https://youtu.be/x3lx-Mwam5o?si=Wx646wgGMP13Ztoi)
+
 [workers 代理搭建](https://youtu.be/mmXJAx-fXHo)
 
 [workers 代理优选IP](https://youtu.be/egjPHBbd9zw)
